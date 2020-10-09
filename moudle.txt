@@ -1,0 +1,6 @@
+Here are the moudle that you will need when you run this
+
+first : type in command prompt pip install opencv-python
+second : pip install numpy
+
+that is all.
